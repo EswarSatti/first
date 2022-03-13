@@ -9,7 +9,7 @@ function App() {
             <h2>SSC MARK LIST</h2> 
             
             <div >
-                <label  for="engMarks">English</label>
+                <label  for="engMarks">eng</label>
                 <input type="number" name=""  placeholder="Marks"></input>
                 
             </div> 
